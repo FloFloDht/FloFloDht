@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Florent Dhont
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning GoLand & infrastructure deployement
+- 🌱 I’m currently learning GoLand & infrastructure deployment
 - 💻 I’m currently working at Continental Automotive Toulouse
 
 <!---
